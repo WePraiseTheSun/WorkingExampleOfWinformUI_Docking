@@ -8,4 +8,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="PomeGranate.WinFormsUI" Version="3.1.0" />
+    <PackageReference Include="PomeGranate.WinFormsUI.ThemeVS2003" Version="3.1.0" />
+    <PackageReference Include="PomeGranate.WinFormsUI.ThemeVS2005" Version="3.1.0" />
+    <PackageReference Include="PomeGranate.WinFormsUI.ThemeVS2005Multithreading" Version="3.1.0" />
+    <PackageReference Include="PomeGranate.WinFormsUI.ThemeVS2013" Version="3.1.0" />
+    <PackageReference Include="PomeGranate.WinFormsUI.ThemeVS2015" Version="3.1.0" />
+  </ItemGroup>
+
 </Project>
